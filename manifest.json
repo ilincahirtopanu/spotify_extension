@@ -1,0 +1,11 @@
+{
+    "name": "Spotify side panel",
+    "version": "0.1",
+    "description": "SHows listenened to song at the moment with queue and such, always displays",
+    "manifest_version": 3,
+    "side_panel": {
+      "default_path": "sidepanel.html"
+    },
+    "permissions": ["sidePanel"]
+  }
+  
